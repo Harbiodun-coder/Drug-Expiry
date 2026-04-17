@@ -33,30 +33,30 @@ This project was developed as a final year computer science student project.
 
 ## 📁 Project Structure
 
+```
 drug-expiry/
 │
 ├── backend/
-│ ├── models/
-│ ├── controllers/
-│ ├── routes/
-│ └── server.js
+│   ├── models/
+│   ├── controllers/
+│   ├── routes/
+│   └── server.js
 │
 ├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── layout/
-│ │ ├── pages/
-│ │ ├── services/
-│ │ └── App.jsx
+│   ├── src/
+│   │   ├── components/
+│   │   ├── layout/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   └── App.jsx
 │
 ├── assets/
-│ ├── dashboard.png
-│ ├── add-drug.png
-│ ├── inventory.png
+│   ├── dashboard.png
+│   ├── add-drug.png
+│   ├── inventory.png
 │
 └── README.md
-
-````
+```
 
 
 
