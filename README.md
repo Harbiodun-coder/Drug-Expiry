@@ -1,4 +1,3 @@
-Here’s your **updated README with proper screenshot section included and slightly polished for GitHub professionalism**:
 
 ---
 
@@ -154,11 +153,11 @@ drug_name + batch_number
 
 ### Dashboard
 
-![Dashboard](./assets/dashboard.png)
+![Dashboard](./assests/dashboard.png)
 
 ### Add Drug Page
 
-![Add Drug](./assets/add-drug.png)
+![Add Drug](./assests/add-drug.png)
 
 
 ---
