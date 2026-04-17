@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 function Sidebar() {
   return (
     <div className="w-64 h-screen bg-white shadow-lg p-6">
-      <h1 className="text-xl font-bold mb-10">PharmaTrack</h1>
+      <h1 className="text-xl font-bold mb-10">Drug Expiry Tracker</h1>
 
       <nav className="space-y-4">
         <Link to="/" className="block hover:text-blue-500">
